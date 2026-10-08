@@ -1,0 +1,1416 @@
+[
+    {
+        "id": 1,
+        "name": "Асака",
+        "price": 3600,
+        "discount": 4200,
+        "img": "images/sushi1.jpeg",
+        "description": "Жареный ролл",
+        "product__type": "sushi"
+    },
+    {
+        "id": 2,
+        "name": "РЮ",
+        "price": 2700,
+        "discount": 3000,
+        "img": "images/sushi2.jpg",
+        "description": "Жареный ролл",
+        "product__type": "sushi"
+    },
+    {
+        "id": 3,
+        "name": "Сэндвич MAN с лососем",
+        "price": 2300,
+        "discount": 2800,
+        "img": "images/sushi3.jpg",
+        "description": "С лососем",
+        "product__type": "sandwich"
+    },
+    {
+        "id": 4,
+        "name": "Сэндвич MAN с крабом",
+        "price": 900,
+        "discount": 2300,
+        "img": "images/sushi4.jpg",
+        "description": "С крабом",
+        "product__type": "sandwich"
+    },
+    {
+        "id": 5,
+        "name": "Сэндвич ролл с крабом",
+        "price": 900,
+        "discount": 2300,
+        "img": "images/sushi5.jpg",
+        "description": "С крабом",
+        "product__type": "roll"
+    },
+    {
+        "id": 6,
+        "name": "Якудза",
+        "price": 2900,
+        "discount": 3400,
+        "img": "images/sushi6.jpg",
+        "description": "Холодный ролл",
+        "product__type": "sushi"
+    },
+    {
+        "id": 7,
+        "name": "Токио",
+        "price": 2200,
+        "discount": 3800,
+        "img": "images/sushi7.jpg",
+        "description": "Холодный ролл",
+        "product__type": "sushi"
+    },
+    {
+        "id": 8,
+        "name": "ЯТО",
+        "price": 3300,
+        "discount": 4000,
+        "img": "images/sushi8.jpg",
+        "description": "Холодный ролл",
+        "product__type": "sushi"
+    },
+    {
+        "id": 9,
+        "name": "Красный дракон",
+        "price": 3400,
+        "discount": 4000,
+        "img": "images/sushi6.jpeg",
+        "description": "Опалённый ролл (ср-острый)",
+        "product__type": "sushi"
+    },
+    {
+        "id": 10,
+        "name": "Золотой дракон",
+        "price": 3400,
+        "discount": 4000,
+        "img": "images/sushi7.jpeg",
+        "description": "Холодный ролл",
+        "product__type": "sushi"
+    },
+    {
+        "id": 11,
+        "name": "СЭНКУ",
+        "price": 3000,
+        "discount": 3500,
+        "img": "images/sushi8.jpeg",
+        "description": "Холодный ролл",
+        "product__type": "sushi"
+    },
+    {
+        "id": 12,
+        "name": "Хару",
+        "price": 3000,
+        "discount": 3500,
+        "img": "images/sushi9.jpeg",
+        "description": "Опалённые ролл",
+        "product__type": "sushi"
+    },
+    {
+        "id": 13,
+        "name": "Нами",
+        "price": 2800,
+        "discount": 3300,
+        "img": "images/sushi10.jpeg",
+        "description": "Холодный ролл",
+        "product__type": "sushi"
+    },
+    {
+        "id": 14,
+        "name": "Изуми",
+        "price": 3400,
+        "discount": 3900,
+        "img": "images/sushi11.jpeg",
+        "description": "Холодный ролл",
+        "product__type": "sushi"
+    },
+    {
+        "id": 15,
+        "name": "Хакуна Матата",
+        "price": 3200,
+        "discount": 3800,
+        "img": "images/sushi12.jpeg",
+        "description": "Холодный ролл (ср-острый)",
+        "product__type": "sushi"
+    },
+    {
+        "id": 16,
+        "name": "Йоко",
+        "price": 3200,
+        "discount": 3800,
+        "img": "images/sushi13.jpeg",
+        "description": "Запечённый ролл",
+        "product__type": "sushi"
+    },
+    {
+        "id": 17,
+        "name": "Никиби",
+        "price": 3200,
+        "discount": 3800,
+        "img": "images/sushi17.jpeg",
+        "description": "Опаленный ролл",
+        "product__type": "sushi"
+    },
+    {
+        "id": 18,
+        "name": "Цезарь запеченный",
+        "price": 2400,
+        "discount": 2900,
+        "img": "images/sushi18.jpeg",
+        "description": "Запеченный ролл",
+        "product__type": "sushi"
+    },
+    {
+        "id": 19,
+        "name": "Фила Чиз",
+        "price": 3300,
+        "discount": 3900,
+        "img": "images/sushi19.jpeg",
+        "description": "Запеченный ролл",
+        "product__type": "sushi"
+    },
+    {
+        "id": 20,
+        "name": "Филадельфия премиум",
+        "price": 2700,
+        "discount": 3300,
+        "img": "images/sushi20.jpeg",
+        "description": "Холодный ролл",
+        "product__type": "sushi"
+    },
+    {
+        "id": 21,
+        "name": "Остин",
+        "price": 3200,
+        "discount": 3800,
+        "img": "images/sushi21.jpeg",
+        "description": "Запеченный ролл",
+        "product__type": "sushi"
+    },
+    {
+        "id": 22,
+        "name": "Кицуне",
+        "price": 3000,
+        "discount": 3600,
+        "img": "images/sushi22.jpeg",
+        "description": "Немного острый и вкусный ролл",
+        "product__type": "sushi"
+    },
+    {
+        "id": 23,
+        "name": "Сузуя",
+        "price": 3000,
+        "discount": 3600,
+        "img": "images/sushi23.jpeg",
+        "description": "Холодный ролл",
+        "product__type": "sushi"
+    },
+    {
+        "id": 24,
+        "name": "Йоши",
+        "price": 3200,
+        "discount": 3700,
+        "img": "images/sushi24.jpeg",
+        "description": "Холодный ролл",
+        "product__type": "sushi"
+    },
+    {
+        "id": 25,
+        "name": "Синобу",
+        "price": 3600,
+        "discount": 3700,
+        "img": "images/sushi25.jpeg",
+        "description": "Опаленный ролл",
+        "product__type": "sushi"
+    },
+    {
+        "id": 26,
+        "name": "Асахи",
+        "price": 2700,
+        "discount": 3200,
+        "img": "images/sushi26.jpeg",
+        "description": "Холодный ролл",
+        "product__type": "sushi"
+    },
+    {
+        "id": 27,
+        "name": "Зеленый дракон",
+        "price": 3200,
+        "discount": 3700,
+        "img": "images/sushi27.jpeg",
+        "description": "Холодный ролл",
+        "product__type": "sushi"
+    },
+    {
+        "id": 28,
+        "name": "Икигай",
+        "price": 3000,
+        "discount": 3600,
+        "img": "images/sushi28.jpeg",
+        "description": "Холодный ролл",
+        "product__type": "sushi"
+    },
+    {
+        "id": 29,
+        "name": "Хаку",
+        "price": 3000,
+        "discount": 3600,
+        "img": "images/sushi29.jpeg",
+        "description": "ХЗ",
+        "product__type": "sushi"
+    },
+    {
+        "id": 30,
+        "name": "Амори",
+        "price": 2900,
+        "discount": 3400,
+        "img": "images/sushi30.jpeg",
+        "description": "Опаленный ролл",
+        "product__type": "sushi"
+    },
+    {
+        "id": 31,
+        "name": "Хиро",
+        "price": 3000,
+        "discount": 3600,
+        "img": "images/sushi31.jpeg",
+        "description": "Холодный ролл",
+        "product__type": "sushi"
+    },
+    {
+        "id": 32,
+        "name": "Ямато",
+        "price": 3600,
+        "discount": 4200,
+        "img": "images/sushi32.jpeg",
+        "description": "Холодный ролл",
+        "product__type": "sushi"
+    },
+    {
+        "id": 33,
+        "name": "Филадельфия с креветкой",
+        "price": 2800,
+        "discount": 3400,
+        "img": "images/sushi33.jpeg",
+        "description": "Холодный ролл",
+        "product__type": "sushi"
+    },
+    {
+        "id": 34,
+        "name": "Филадельфия с угрем",
+        "price": 2800,
+        "discount": 3400,
+        "img": "images/sushi34.jpeg",
+        "description": "Холодный ролл",
+        "product__type": "sushi"
+    },
+    {
+        "id": 35,
+        "name": "Нихон",
+        "price": 2900,
+        "discount": 3500,
+        "img": "images/sushi35.jpeg",
+        "description": "Опаленный ролл",
+        "product__type": "sushi"
+    },
+    {
+        "id": 36,
+        "name": "Гриль лосось",
+        "price": 3400,
+        "discount": 3900,
+        "img": "images/sushi36.jpeg",
+        "description": "Опаленный ролл",
+        "product__type": "sushi"
+    },
+    {
+        "id": 37,
+        "name": "Четыре моря под золотым небом",
+        "price": 3000,
+        "discount": 3600,
+        "img": "images/sushi37.jpeg",
+        "description": "Холодный ролл",
+        "product__type": "sushi"
+    },
+    {
+        "id": 38,
+        "name": "Вулкан запеченный",
+        "price": 2500,
+        "discount": 3000,
+        "img": "images/sushi38.jpeg",
+        "description": "Запеченный ролл",
+        "product__type": "sushi"
+    },
+    {
+        "id": 39,
+        "name": "Boston",
+        "price": 2700,
+        "discount": 3200,
+        "img": "images/sushi39.jpeg",
+        "description": "Вулкан запеченный",
+        "product__type": "sushi"
+    },
+    {
+        "id": 40,
+        "name": "Калифорния запеченная с крабом",
+        "price": 2600,
+        "discount": 3000,
+        "img": "images/sushi40.jpeg",
+        "description": "Запеченная с лососем",
+        "product__type": "sushi"
+    },
+    {
+        "id": 41,
+        "name": "Калифорния запеченная с лососем",
+        "price": 3000,
+        "discount": 3600,
+        "img": "images/sushi41.jpeg",
+        "description": "Запеченная с лососем",
+        "product__type": "sushi"
+    },
+    {
+        "id": 42,
+        "name": "Калифорния запеченная с креветкой",
+        "price": 2800,
+        "discount": 3300,
+        "img": "images/sushi42.jpeg",
+        "description": "Запеченная с лососем",
+        "product__type": "sushi"
+    },
+    {
+        "id": 43,
+        "name": "Калифорния с креветкой",
+        "price": 2600,
+        "discount": 3100,
+        "img": "images/sushi43.jpeg",
+        "description": "Холодный ролл",
+        "product__type": "sushi"
+    },
+    {
+        "id": 44,
+        "name": "Калифорния с крабом",
+        "price": 2200,
+        "discount": 2800,
+        "img": "images/sushi44.jpeg",
+        "description": "Холодный ролл",
+        "product__type": "sushi"
+    },
+    {
+        "id": 45,
+        "name": "Калифорния с лососем",
+        "price": 2500,
+        "discount": 3000,
+        "img": "images/sushi45.jpeg",
+        "description": "Холодный ролл",
+        "product__type": "sushi"
+    },
+    {
+        "id": 46,
+        "name": "Филадельфия с тунцом",
+        "price": 2700,
+        "discount": 3200,
+        "img": "images/sushi46.jpeg",
+        "description": "Холодный ролл",
+        "product__type": "sushi"
+    },
+    {
+        "id": 47,
+        "name": "Поцелуй гейши",
+        "price": 2900,
+        "discount": 3400,
+        "img": "images/sushi47.jpeg",
+        "description": "Запеченный ролл",
+        "product__type": "sushi"
+    },
+    {
+        "id": 48,
+        "name": "Rabbit с креветкой",
+        "price": 3000,
+        "discount": 3600,
+        "img": "images/sushi48.jpeg",
+        "description": "Запеченный ролл",
+        "product__type": "sushi"
+    },
+    {
+        "id": 49,
+        "name": "Чеддер",
+        "price": 2500,
+        "discount": 2900,
+        "img": "images/sushi49.jpeg",
+        "description": "Опаленный ролл",
+        "product__type": "sushi"
+    },
+    {
+        "id": 50,
+        "name": "shef Roll",
+        "price": 2800,
+        "discount": 3300,
+        "img": "images/sushi50.jpeg",
+        "description": "Холодный ролл",
+        "product__type": "sushi"
+    },
+    {
+        "id": 51,
+        "name": "Темпура с лососем",
+        "price": 2300,
+        "discount": 2800,
+        "img": "images/sushi51.jpeg",
+        "description": "Запеченный ролл",
+        "product__type": "sushi"
+    },
+    {
+        "id": 52,
+        "name": "Темпура краб",
+        "price": 2200,
+        "discount": 2600,
+        "img": "images/sushi52.jpeg",
+        "description": "Запеченный ролл",
+        "product__type": "sushi"
+    },
+    {
+        "id": 53,
+        "name": "Авокадо маки",
+        "price": 800,
+        "discount": 1000,
+        "img": "images/sushi53.jpeg",
+        "description": "Классические маки",
+        "product__type": "sushi"
+    },
+    {
+        "id": 54,
+        "name": "Сяке маки",
+        "price": 1300,
+        "discount": 1600,
+        "img": "images/sushi54.jpeg",
+        "description": "Классические маки",
+        "product__type": "sushi"
+    },
+    {
+        "id": 55,
+        "name": "Каппа маки",
+        "price": 600,
+        "discount": 900,
+        "img": "images/sushi55.jpeg",
+        "description": "Классические маки",
+        "product__type": "sushi"
+    },
+    {
+        "id": 56,
+        "name": "Унаги маки",
+        "price": 1500,
+        "discount": 1800,
+        "img": "images/sushi56.jpeg",
+        "description": "Классические маки",
+        "product__type": "sushi"
+    },
+    {
+        "id": 57,
+        "name": "Мясная",
+        "price": 3200,
+        "img": "images/pizza1.jpeg",
+        "description": "Охотничьи колбаски халяль, сыр моцарелла, вырезка говяжья халяль, колбаса копчёная халяль, соус красный. Пицца 33 см",
+        "product__type": "pizza"
+    },
+    {
+        "id": 58,
+        "name": "Чикаго (средне острая)",
+        "price": 3200,
+        "img": "images/pizza2.jpeg",
+        "description": "Сыр моцарелла, говядина халяль, помидоры, перец болгарский, лук красный, халапеньо, соус ббкю. Пицца 33 см.",
+        "product__type": "pizza"
+    },
+    {
+        "id": 59,
+        "name": "Сырный цыпленок",
+        "price": 2900,
+        "img": "images/pizza3.jpeg",
+        "description": "Куриное филе, сыр моцарелла, сырный соус. Пицца 33 см.",
+        "product__type": "pizza"
+    },
+    {
+        "id": 60,
+        "name": "Пицца с семгой",
+        "price": 3200,
+        "img": "images/pizza4.jpeg",
+        "description": "Филе сёмги, соус для пиццы, икра красная, сыр моцарелла, соус зелёный с базиликом. Пицца 33 см.",
+        "product__type": "pizza"
+    },
+    {
+        "id": 61,
+        "name": "Цыпленок барбекю",
+        "price": 2900,
+        "img": "images/pizza5.jpeg",
+        "description": "Куриное филе, сыр моцарелла, красный лук, соус барбекю. Пицца 33 см.",
+        "product__type": "pizza"
+    },
+    {
+        "id": 62,
+        "name": "4 Сезона",
+        "price": 2900,
+        "img": "images/pizza6.jpeg",
+        "description": "Сыр, колбаса халяль, куриное филе халяль, помидоры, грибы. Пицца 33 см.",
+        "product__type": "pizza"
+    },
+    {
+        "id": 63,
+        "name": "Маргарита",
+        "price": 2500,
+        "img": "images/pizza7.jpeg",
+        "description": "Пицца 33 см. Нежное, мягкое тесто со свежими помидорами и горячим тягучим сыром.",
+        "product__type": "pizza"
+    },
+    {
+        "id": 64,
+        "name": "Пепперони",
+        "price": 2900,
+        "img": "images/pizza8.jpeg",
+        "description": "Пицца 33 см. Нежное, мягкое тесто с вкусным сыром и халяльной колбасой",
+        "product__type": "pizza"
+    },
+    {
+        "id": 65,
+        "name": "Курица с грибами",
+        "price": 2900,
+        "img": "images/pizza9.jpeg",
+        "description": "Пицца 33 см. Нежное, мягкое тесто с вкусным сыром, грибами и халяльным мясом курицы.",
+        "product__type": "pizza"
+    },
+    {
+        "id": 66,
+        "name": "Цезарь с курицей",
+        "price": 3200,
+        "img": "images/pizza10.jpeg",
+        "description": "Пицца 33 см. Нежное, мягкое тесто с вкусным сыром, крупными кусочками куриного мяса халяль и с салатом цезарь.",
+        "product__type": "pizza"
+    },
+    {
+        "id": 67,
+        "name": "Сырная",
+        "price": 2900,
+        "img": "images/pizza11.jpeg",
+        "description": "Пицца 33 см. Нежное, мягкое тесто с толстым слоем вкусного тягучего горячего сыра.",
+        "product__type": "pizza"
+    },
+    {
+        "id": 68,
+        "name": "Лепешка с кунжутом",
+        "price": 450,
+        "discount": 600,
+        "img": "images/pizza12.jpeg",
+        "description": "Вкусная лепёшка с кунжутом",
+        "product__type": "pizza"
+    },
+    {
+        "id": 69,
+        "name": "Cет мужской",
+        "price": 19500,
+        "discount": 21500,
+        "img": "images/shash1.jpeg",
+        "description": "Шашлык из баранины, Телятина вырезка, Шашлык из утки, Шашлык из куриной грудки, Люля из курицы, Люля из баранины, Лук маринованный, Лаваш 2, Картофель фри 2 порции, Белый соус, Красный соус, Зелень",
+        "product__type": "shash"
+    },
+    {
+        "id": 70,
+        "name": "Сет из птицы",
+        "price": 8400,
+        "discount": "",
+        "img": "images/shash2.jpeg",
+        "description": "Шашлык из куриного филе, Шашлык из утки, Люля из курицы, Лук маринованный, Лаваш, Картофель фри, Белый соус, Красный соус, Зелень",
+        "product__type": "shash"
+    },
+    {
+        "id": 71,
+        "name": "Сет - Казахстан",
+        "price": 17000,
+        "discount": "",
+        "img": "images/shash3.jpeg",
+        "description": "Шашлык баранина, Шашлык телятина, Шашлык утка, Люля баранины, Грибы на мангале, Картофельные дольки 2 порции, Лаваш, Белый соус, Красный соус, Зелень",
+        "product__type": "shash"
+    },
+    {
+        "id": 72,
+        "name": "Шашлык из перепелов",
+        "price": 3000,
+        "discount": 3600,
+        "img": "images/shash4.jpeg",
+        "description": "перепелки 2 шт, соус, лук маринованный",
+        "product__type": "shash"
+    },
+    {
+        "id": 73,
+        "name": "Баранья вырезка на кости",
+        "price": 4100,
+        "discount": 4600,
+        "img": "images/shash5.jpeg",
+        "description": "соус, лук, маринованный, вырезка спины с мякотью",
+        "product__type": "shash"
+    },
+    {
+        "id": 74,
+        "name": "Стейк из сёмги",
+        "price": 5600,
+        "discount": "",
+        "img": "images/shash6.jpeg",
+        "description": "сёмга норвежская, соус",
+        "product__type": "shash"
+    },
+    {
+        "id": 75,
+        "name": "Стейк Портерхаус",
+        "price": 7700,
+        "discount": "",
+        "img": "images/shash7.jpeg",
+        "description": "Телятина вырезка халяль, салат, соус",
+        "product__type": "shash"
+    },
+    {
+        "id": 76,
+        "name": "Стейк Рибай",
+        "price": 6900,
+        "discount": "",
+        "img": "images/shash8.jpeg",
+        "description": "Телятина вырезка халяль, салат, соус",
+        "product__type": "shash"
+    },
+    {
+        "id": 77,
+        "name": "Стейк Рибай на кости",
+        "price": 7200,
+        "discount": "",
+        "img": "images/shash9.jpeg",
+        "description": "Телятина вырезка халяль, салат, соус",
+        "product__type": "shash"
+    },
+    {
+        "id": 78,
+        "name": "Стейк Нью-Йорк",
+        "price": 5100,
+        "discount": "",
+        "img": "images/shash10.jpeg",
+        "description": "Телятина вырезка халяль, салат, соус",
+        "product__type": "shash"
+    },
+    {
+        "id": 79,
+        "name": "Люля -Кебаб из баранины",
+        "price": 2300,
+        "discount": "",
+        "img": "images/shash11.jpeg",
+        "description": "фарш баранины, специальный соус, маринованный лук",
+        "product__type": "shash"
+    },
+    {
+        "id": 80,
+        "name": "Люля -Кебаб из курицы",
+        "price": 2100,
+        "discount": "",
+        "img": "images/shash12.jpeg",
+        "description": "фарш из куриной грудки, специальный соус, маринованный лук",
+        "product__type": "shash"
+    },
+    {
+        "id": 81,
+        "name": "Грибы на мангале",
+        "price": 2000,
+        "discount": "",
+        "img": "images/shash13.jpeg",
+        "description": "шампиньоны, секретные специи, соус",
+        "product__type": "shash"
+    },
+    {
+        "id": 82,
+        "name": "Шашлык из куриной грудки",
+        "price": 2800,
+        "discount": "",
+        "img": "images/shash14.jpeg",
+        "description": "куриная грудка, секретные специи, подаётся с соусом",
+        "product__type": "shash"
+    },
+    {
+        "id": 83,
+        "name": "Шашлык из кусковой баранины.",
+        "price": 4000,
+        "discount": "",
+        "img": "images/shash15.jpeg",
+        "description": "телятина, секретные специи, соус",
+        "product__type": "shash"
+    },
+    {
+        "id": 84,
+        "name": "Шашлык из утиного филе.",
+        "price": 3500,
+        "discount": "",
+        "img": "images/shash16.jpeg",
+        "description": "утиное филе, секретные специи, соус",
+        "product__type": "shash"
+    },
+    {
+        "id": 85,
+        "name": "Шашлык из кусковой баранины.",
+        "price": 4000,
+        "discount": "",
+        "img": "images/shash17.jpeg",
+        "description": "мякоть баранины, секретные специи, соус",
+        "product__type": "shash"
+    },
+    {
+        "id": 86,
+        "name": "Лаваш",
+        "price": 200,
+        "discount": 300,
+        "img": "images/shash18.jpeg",
+        "description": "Лаваш",
+        "product__type": "shash"
+    },
+    {
+        "id": 87,
+        "name": "Кетчуп для шашлыка",
+        "price": 200,
+        "discount": 300,
+        "img": "images/shash19.jpeg",
+        "description": "Классический кетчуп",
+        "product__type": "shash"
+    },
+    {
+        "id": 88,
+        "name": "Соус шашлычный",
+        "price": 200,
+        "discount": 300,
+        "img": "images/shash20.jpeg",
+        "description": "Бесплатно подается к шашлыку",
+        "product__type": "shash"
+    },
+    {
+        "id": 89,
+        "name": "Соус Тар-Тар",
+        "price": 200,
+        "discount": 300,
+        "img": "images/shash21.jpeg",
+        "description": "Бесплатно подается к шашлыку",
+        "product__type": "shash"
+    },
+    {
+        "id": 90,
+        "name": "Сет Mafia",
+        "price": 28000,
+        "discount": 33600,
+        "img": "images/set1.jpeg",
+        "description": "88 шт",
+        "product__type": "set"
+    },
+    {
+        "id": 91,
+        "name": "Сет студент",
+        "price": 8600,
+        "discount": 10300,
+        "img": "images/set2.jpeg",
+        "description": "24 шт",
+        "product__type": "set"
+    },
+    {
+        "id": 92,
+        "name": "Сет Якудза",
+        "price": 13400,
+        "discount": 16000,
+        "img": "images/set3.jpeg",
+        "description": "40 шт",
+        "product__type": "set"
+    },
+    {
+        "id": 93,
+        "name": "Rabbit hit",
+        "price": 15500,
+        "discount": 17000,
+        "img": "images/set4.jpeg",
+        "description": "48 шт",
+        "product__type": "set"
+    },
+    {
+        "id": 94,
+        "name": "Kvatro Rabbit",
+        "price": 11400,
+        "discount": 13700,
+        "img": "images/set5.jpeg",
+        "description": "32 шт",
+        "product__type": "set"
+    },
+    {
+        "id": 95,
+        "name": "Сет Самурай",
+        "price": 13400,
+        "discount": 16000,
+        "img": "images/set6.jpeg",
+        "description": "40 шт",
+        "product__type": "set"
+    },
+    {
+        "id": 96,
+        "name": "Сет Юмми",
+        "price": 8800,
+        "discount": 10500,
+        "img": "images/set7.jpeg",
+        "description": "24 шт",
+        "product__type": "set"
+    },
+    {
+        "id": 97,
+        "name": "Сет Нирвана",
+        "price": 8300,
+        "discount": 9900,
+        "img": "images/set8.jpeg",
+        "description": "",
+        "product__type": "set"
+    },
+    {
+        "id": 98,
+        "name": "Sea Rabbit",
+        "price": 11900,
+        "discount": 14200,
+        "img": "images/set9.jpeg",
+        "description": "40 шт",
+        "product__type": "set"
+    },
+    {
+        "id": 99,
+        "name": "Trios Rabbit",
+        "price": 7400,
+        "discount": 8900,
+        "img": "images/set10.jpeg",
+        "description": "24 шт",
+        "product__type": "set"
+    },
+    {
+        "id": 100,
+        "name": "Lola Bunny",
+        "price": 10100,
+        "discount": 12200,
+        "img": "images/set11.jpeg",
+        "description": "32 шт",
+        "product__type": "set"
+    },
+    {
+        "id": 101,
+        "name": "Office Rabbit",
+        "price": 12000,
+        "discount": 14500,
+        "img": "images/set12.jpeg",
+        "description": "40 шт",
+        "product__type": "set"
+    },
+    {
+        "id": 102,
+        "name": "Rabbit gold",
+        "price": 8888,
+        "discount": 10600,
+        "img": "images/combo1.jpeg",
+        "description": "Чикен 14 шт, Ролл Темпура краб, Ролл Фила классик, Маки ролл - Сяке маки, Пицца Пепперони 33 см, Морс 1 л",
+        "product__type": "combo"
+    },
+    {
+        "id": 103,
+        "name": "Children rabbits",
+        "price": 4500,
+        "discount": 5500,
+        "img": "images/combo2.jpeg",
+        "description": "Пицца пепперони 33 см, Картофель фри, Нагетсы куриные",
+        "product__type": "combo"
+    },
+    {
+        "id": 104,
+        "name": "Happy rabbits",
+        "price": 3800,
+        "discount": 4500,
+        "img": "images/combo3.jpeg",
+        "description": "пицца пепперони 33 см, картофель фри",
+        "product__type": "combo"
+    },
+    {
+        "id": 105,
+        "name": "Тwo rabbits",
+        "price": 5600,
+        "discount": 6700,
+        "img": "images/combo4.jpeg",
+        "description": "пицца сырная, ролл поцелуй гейши",
+        "product__type": "combo"
+    },
+    {
+        "id": 106,
+        "name": "Еpic bunny",
+        "price": 14250,
+        "discount": 15800,
+        "img": "images/combo5.jpeg",
+        "description": "шашлык из курицы, шашлык из баранины, пицца цезарь, ролл поцелуй гейши, ролл бостон",
+        "product__type": "combo"
+    },
+    {
+        "id": 107,
+        "name": "lucky rabbit",
+        "price": 19500,
+        "discount": 21500,
+        "img": "images/combo6.jpeg",
+        "description": "пицца цезарь, пицца пепперони, ролл поцелуй гейши, ролл бостон, шашлык из баранины, шашлык из телятины",
+        "product__type": "combo"
+    },
+    {
+        "id": 108,
+        "name": "Мeat mix",
+        "price": 6800,
+        "discount": 7200,
+        "img": "images/combo7.jpeg",
+        "description": "пицца мясная, шашлык из баранины",
+        "product__type": "combo"
+    },
+    {
+        "id": 109,
+        "name": "Мini rabbit",
+        "price": 10100,
+        "discount": 11200,
+        "img": "images/combo8.jpeg",
+        "description": "пицца сырная, ролл поцелуй гейши, шашлык из баранины, картофельные дольки",
+        "product__type": "combo"
+    },
+    {
+        "id": 110,
+        "name": "Rabbit boss",
+        "price": 27700,
+        "discount": 31000,
+        "img": "images/combo9.jpeg",
+        "description": "пицца цезарь, пицца сырная, ролл поцелуй гейши, ролл фила премиум, ролл фила с тунцом, ролл токио, шашлык из курицы, шашлык из баранины, шашлык из утки, шашлык из телятины",
+        "product__type": "combo"
+    },
+    {
+        "id": 111,
+        "name": "Fast rabbit",
+        "price": 8700,
+        "discount": 10000,
+        "img": "images/combo10.jpeg",
+        "description": "стрипсы, пицца цезарь, шашлык из курицы, ролл цезарь",
+        "product__type": "combo"
+    },
+    {
+        "id": 112,
+        "name": "Bento Rabbit",
+        "price": 8300,
+        "discount": 9100,
+        "img": "images/combo11.jpeg",
+        "description": "шашлык из утки, пицца курица с грибами, ролл вулкан",
+        "product__type": "combo"
+    },
+    {
+        "id": 113,
+        "name": "Small Bunny",
+        "price": 3200,
+        "discount": 3500,
+        "img": "images/combo12.jpeg",
+        "description": "шашлык из куриной грудки, картофель фри",
+        "product__type": "combo"
+    },
+    {
+        "id": 114,
+        "name": "Ланч бокс №1",
+        "price": 2500,
+        "discount": "",
+        "img": "images/hot1.jpeg",
+        "description": "Удон с говядиной, ролл 2 шт, салат. Заказ бокса только до 17:00",
+        "product__type": "hot"
+    },
+    {
+        "id": 115,
+        "name": "Ланч бокс №2",
+        "price": 2500,
+        "discount": "",
+        "img": "images/hot2.jpeg",
+        "description": "Паста курица с грибами, фри, салат. Заказ бокса только до 17:00",
+        "product__type": "hot"
+    },
+    {
+        "id": 116,
+        "name": "Ланч бокс №3",
+        "price": 2500,
+        "discount": "",
+        "img": "images/hot3.jpeg",
+        "description": "Мясо по-тайски, салат. Заказ бокса только до 17:00",
+        "product__type": "hot"
+    },
+    {
+        "id": 117,
+        "name": "Ланч бокс №4",
+        "price": 2500,
+        "discount": "",
+        "img": "images/hot4.jpeg",
+        "description": "Курочка в сливочном соусе, салат. Заказ бокса только до 17:00",
+        "product__type": "hot"
+    },
+    {
+        "id": 118,
+        "name": "Ланч бокс №5",
+        "price": 2500,
+        "discount": "",
+        "img": "images/hot5.jpeg",
+        "description": "Фила классик – 4шт. Сяке маки – 4 шт. Заказ бокса только до 17:00",
+        "product__type": "hot"
+    },
+    {
+        "id": 119,
+        "name": "Буррито с курицей",
+        "price": 1600,
+        "discount": "",
+        "img": "images/hot6.jpeg",
+        "description": "Лаваш, Куриное филе, Маринованные огурцы, Лук красный, Гуакамале, Соус, Помидоры, Айсберг",
+        "product__type": "hot"
+    },
+    {
+        "id": 120,
+        "name": "Буррито с говядиной",
+        "price": 2000,
+        "discount": "",
+        "img": "images/hot7.jpeg",
+        "description": "Лаваш, Говядина, Маринованные огурцы, Лук красный, Гуакамале, Соус, Помидоры, Айсберг",
+        "product__type": "hot"
+    },
+    {
+        "id": 121,
+        "name": "Поке с лососем",
+        "price": 3500,
+        "discount": "",
+        "img": "images/hot8.jpeg",
+        "description": "Лосось, рис, черри, авокадо, сыр сливочный, икра масаго, лук жаренный, соусы, специи.",
+        "product__type": "hot"
+    },
+    {
+        "id": 122,
+        "name": "Поке с креветками",
+        "price": 3500,
+        "discount": "",
+        "img": "images/hot9.jpeg",
+        "description": "Креветки, лапша, огурцы, авокадо, сыр сливочный, три вида соуса, специи",
+        "product__type": "hot"
+    },
+    {
+        "id": 123,
+        "name": "Карри рамён с курицей",
+        "price": 2400,
+        "discount": "",
+        "img": "images/hot1.jpeg",
+        "description": "Карри рамён с курицей, халяль",
+        "product__type": "hot"
+    },
+    {
+        "id": 124,
+        "name": "Сырный рамён с курицей",
+        "price": 2800,
+        "discount": "",
+        "img": "images/hot1.jpeg",
+        "description": "Сырный рамён с курицей, халяль",
+        "product__type": "hot"
+    },
+    {
+        "id": 125,
+        "name": "Сырный рамён с морепродуктами",
+        "price": 3300,
+        "discount": "",
+        "img": "images/hot1.jpeg",
+        "description": "",
+        "product__type": "hot"
+    },
+    {
+        "id": 126,
+        "name": "Рамён с морепродуктами",
+        "price": 3300,
+        "discount": "",
+        "img": "images/hot13.jpeg",
+        "description": "Лапша рамён, вакамэ, яйцо аджитама, лук зелёный ,нори жареные, маринованая редиска, Кальмары, Креветки, Лосось",
+        "product__type": "hot"
+    },
+    {
+        "id": 127,
+        "name": "Тако",
+        "price": 2500,
+        "discount": "",
+        "img": "images/hot14.jpeg",
+        "description": "Лаваш ,Грибы шампиньоны, Лук, Куриная грудка, Сливки, Сыр деревенский, Сыр плавленый, Сметана",
+        "product__type": "hot"
+    },
+    {
+        "id": 128,
+        "name": "Чаджангмён с говядиной",
+        "price": 2500,
+        "discount": "",
+        "img": "images/hot15.jpeg",
+        "description": "говядина,лук репчатый,капуста,айсберг,зел. лук,лапша,яйца перепелиные,зел. Горошек,микрозелень",
+        "product__type": "hot"
+    },
+    {
+        "id": 129,
+        "name": "Курочка в сливочном соусе с рисом",
+        "price": 2700,
+        "discount": "",
+        "img": "images/hot16.jpeg",
+        "description": "Курица филе (халяль), грибы, черри, сыр, рис, сливки",
+        "product__type": "hot"
+    },
+    {
+        "id": 130,
+        "name": "Мясо по-тайски (острый)",
+        "price": 2500,
+        "discount": "",
+        "img": "images/hot17.jpeg",
+        "description": "Говядина, овощи, специи, соус, кунжут, рис.",
+        "product__type": "hot"
+    },
+    {
+        "id": 131,
+        "name": "Жареный рис",
+        "price": 2600,
+        "discount": 2800,
+        "img": "images/hot18.jpeg",
+        "description": "Рис, креветки, осьминоги бэби, кальмары, перец болгарский, лук репчатый, морковь, проростки бобов, специальный соус , яйцо",
+        "product__type": "hot"
+    },
+    {
+        "id": 132,
+        "name": "Крем-суп из брокколи",
+        "price": 1100,
+        "discount": "",
+        "img": "images/hot19.jpeg",
+        "description": "Брокколи, помидоры, морковь, картофель, лук, томат, помидоры черри, перец, сухарики",
+        "product__type": "hot"
+    },
+    {
+        "id": 133,
+        "name": "Крем-суп чечевичный",
+        "price": 1100,
+        "discount": "",
+        "img": "images/hot20.jpeg",
+        "description": "",
+        "product__type": "hot"
+    },
+    {
+        "id": 134,
+        "name": "Крем-суп грибной",
+        "price": 1100,
+        "discount": "",
+        "img": "images/hot21.jpeg",
+        "description": "Грибы шампиньоны, картофель, лук, морковь, грибной бульон, перец, зелень, сухарики",
+        "product__type": "hot"
+    },
+    {
+        "id": 135,
+        "name": "Том ям",
+        "price": 3300,
+        "discount": "",
+        "img": "images/hot22.jpeg",
+        "description": "Лук красный, шампиньоны, помидоры черри, лосось, креветки, кинза, кокосовое молоко, бульон креветочный, том ям паста, лайм, подаётся с рисом.",
+        "product__type": "hot"
+    },
+    {
+        "id": 136,
+        "name": "Том ям",
+        "price": 3500,
+        "discount": "",
+        "img": "images/hot23.jpeg",
+        "description": "Рамен, Лук красный, шампиньоны, помидоры черри, лосось, креветки, кинза, кокосовое молоко, бульон креветочный, том ям паста, лайм, подаётся с лапшой",
+        "product__type": "hot"
+    },
+    {
+        "id": 137,
+        "name": "Креветки темпура",
+        "price": 3300,
+        "discount": "",
+        "img": "images/hot24.jpeg",
+        "description": "креветки королевские большие,кляр,том ям паста,кокосовое молоко,кокосовая стружка,сливки",
+        "product__type": "hot"
+    },
+    {
+        "id": 138,
+        "name": "Паста с креветками и лососем",
+        "price": 3800,
+        "discount": "",
+        "img": "images/hot25.jpeg",
+        "description": "паста лингвини,,сливк,креветки,лосось,лимон фрэш,пармезан,микрозелень,черри томаты",
+        "product__type": "hot"
+    },
+    {
+        "id": 139,
+        "name": "Удон c морепродуктами",
+        "price": 2800,
+        "discount": 3200,
+        "img": "images/hot26.jpeg",
+        "description": "Лапша удон, осьминоги бэби, креветки, кальмары, лосось, болгарский перец, лук репчатый, брокколи, стручковая фасоль, шампиньоны ,соус специальный, кунжут",
+        "product__type": "hot"
+    },
+    {
+        "id": 140,
+        "name": "Удон c курицей",
+        "price": 2300,
+        "discount": "",
+        "img": "images/hot27.jpeg",
+        "description": "Лапша удон, куриное филе, болгарский перец, лук репчатый, брокколи, стручковая фасоль, шампиньоны ,соус специальный, кунжут",
+        "product__type": "hot"
+    },
+    {
+        "id": 141,
+        "name": "Удон c говядиной",
+        "price": 2500,
+        "discount": "",
+        "img": "images/hot28.jpeg",
+        "description": "Лапша удон, говяжья вырезка, болгарский перец, лук репчатый, брокколи, стручковая фасоль, шампиньоны ,соус специальный, кунжут",
+        "product__type": "hot"
+    },
+    {
+        "id": 142,
+        "name": "Рамён с говядиной",
+        "price": 2900,
+        "discount": "",
+        "img": "images/hot29.jpeg",
+        "description": "Лапша рамён, вакамэ, яйцо аджитама, говядина халяль, нори жареные, шампиньоны",
+        "product__type": "hot"
+    },
+    {
+        "id": 143,
+        "name": "Паста курица с грибами",
+        "price": 2500,
+        "discount": "",
+        "img": "images/hot30.jpeg",
+        "description": "грибы шампиньоны, макароны паста, филе куриное, сыр пармезан, помидоры черри, сливки",
+        "product__type": "hot"
+    },
+    {
+        "id": 144,
+        "name": "Паста карбонара",
+        "price": 2500,
+        "discount": "",
+        "img": "images/hot31.jpeg",
+        "description": "Ветчина куриная халяль, макароны паста, лук, сыр пармезан, помидоры черри, сливки",
+        "product__type": "hot"
+    },
+    {
+        "id": 145,
+        "name": "Чаджангмён",
+        "price": 2800,
+        "discount": 3000,
+        "img": "images/hot32.jpeg",
+        "description": "Лапша пшеничная, лук репчатый, капуста, креветки ,кальмары, осьминоги бэби, айсберга, лук зелёный, перепелиные яйца, зелёный горошек, кунжут, огурец свежий",
+        "product__type": "hot"
+    },
+    {
+        "id": 146,
+        "name": "Картофель фри",
+        "price": 990,
+        "discount": 1100,
+        "img": "images/snack1.jpeg",
+        "description": "180 гр",
+        "product__type": "fastfood"
+    },
+    {
+        "id": 147,
+        "name": "Наггетсы",
+        "price": 990,
+        "discount": 1100,
+        "img": "images/snack2.jpeg",
+        "description": "5 штук",
+        "product__type": "fastfood"
+    },
+    {
+        "id": 148,
+        "name": "Картофельные дольки",
+        "price": 990,
+        "discount": 1100,
+        "img": "images/snack3.jpeg",
+        "description": "Картофель по деревенски 180 гр",
+        "product__type": "fastfood"
+    },
+    {
+        "id": 149,
+        "name": "Chicken 7 шт",
+        "price": 2200,
+        "img": "images/snack4.jpeg",
+        "description": "7 шт. Куриные крылышки",
+        "product__type": "fastfood"
+    },
+    {
+        "id": 150,
+        "name": "Chicken 14 шт",
+        "price": 3700,
+        "discount": 4200,
+        "img": "images/snack5.jpeg",
+        "description": "14 шт. Куриные крылышки",
+        "product__type": "fastfood"
+    },
+    {
+        "id": 151,
+        "name": "Стрипы",
+        "price": 1100,
+        "img": "images/snack6.jpeg",
+        "description": "5 штук",
+        "product__type": "fastfood"
+    },
+    {
+        "id": 152,
+        "name": "Салат пикантный с хрустящим баклажаном",
+        "price": 2900,
+        "img": "images/salad1.jpeg",
+        "description": "600 гр",
+        "product__type": "salads"
+    },
+    {
+        "id": 153,
+        "name": "Салат тёплый с говядиной",
+        "price": 3300,
+        "discount": 3900,
+        "img": "images/salad2.jpeg",
+        "description": "450 гр",
+        "product__type": "salads"
+    },
+    {
+        "id": 154,
+        "name": "Хрустящий баклажан",
+        "price": 2700,
+        "img": "images/salad3.jpeg",
+        "description": "330 гр",
+        "product__type": "salads"
+    },
+    {
+        "id": 155,
+        "name": "Греческий от Rabbit",
+        "price": 1900,
+        "img": "images/salad4.jpeg",
+        "description": "260 гр",
+        "product__type": "salads"
+    },
+    {
+        "id": 156,
+        "name": "Азиатский",
+        "price": 2200,
+        "img": "images/salad5.jpeg",
+        "description": "Ср-острый, 300 гр",
+        "product__type": "salads"
+    },
+    {
+        "id": 157,
+        "name": "Цезарь с курицей",
+        "price": 2300,
+        "discount": 2600,
+        "img": "images/salad6.jpeg",
+        "description": "",
+        "product__type": "salads"
+    },
+    {
+        "id": 158,
+        "name": "Хрустящая курочка 320 гр",
+        "price": 2200,
+        "img": "images/salad7.jpeg",
+        "discount": "",
+        "description": "Салат из деревенского сыра, куриного филе халяль, айсберга, черри, корнишона и соуса.",
+        "product__type": "salads"
+    },
+    {
+        "id": 159,
+        "name": "Цезарь с морепродуктами 350 гр",
+        "price": 3200,
+        "discount": 3900,
+        "img": "images/salad8.jpeg",
+        "description": "Кальмар, креветка, соус цезарь, пармезан, айсберг, семга, черри, сухарики, яйца перепелок",
+        "product__type": "salads"
+    }
+]

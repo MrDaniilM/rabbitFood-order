@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Оформление заказа</title>
+    
+</head>
+
+<body>
+   
+    <main>
+        <div class="container checkout">
+            
+            <div class="order-container"></div>
+            <div class="inputs">
+                
+                <input type="text" id="user__name" class="checkout__input" placeholder="Ваше имя">
+                <input type="tel" id="phone" placeholder="+7 (___) ___-__-__" maxlength="18" class="checkout__input">
+                <input type="text" id="adress" class="checkout__input" placeholder="Ваш адрес">
+            </div>
+            <div class="btn_wrapper">
+                <a id="whatsappLink" href="#" target="_blank" class="send__order_btn">Отправить заказ</a>
+                <a href="index.html" class="send__order_btn">Вернутся на главную </a>
+                <a id="clearCartButton" href="#" class="send__order_btn">Очистить корзину</a>
+            </div>
+            
+
+        </div>
+        
+    </main>
+
+    
+    <script src="js/checkout.js"></script>
+</body>
+
+</html>
